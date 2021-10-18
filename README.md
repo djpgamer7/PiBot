@@ -3,7 +3,7 @@ Linux deployable robot
 
 **NOWHERE NEAR COMPLETE PLEASE DO NOT ATTEMPT TO USE**
 
-#Installation & Setup
+# Installation & Setup
 
 1. Create a maven run configuration
 2. Set command to "install -f pom.xml" and profiles to "deploy" excluding the ""
